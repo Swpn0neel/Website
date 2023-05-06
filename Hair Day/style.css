@@ -61,12 +61,32 @@ section article{
 }
 footer div img{
     width: 100px;
-    margin-left: 2%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+section article h1{
+    margin-bottom: 1.5rem;
 }
 
 .high{
     border-radius: 20px;
     background-color: rgba(208,96,76,255);
-    padding: 2rem 5rem 2rem 5rem;
+    padding: 2rem 3rem 2rem 3rem;
     margin-bottom: 1%;
+}
+
+.low{
+    padding: 2rem;
+}
+
+.im{
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.mtxt{
+    display: flex;
+    justify-content: center;
 }
